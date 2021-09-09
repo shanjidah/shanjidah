@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shanjidah afroz
 - 👀 I’m currently working on wordpress plugin on Dokan & Wp-Erp
-- 🌱 I’m 
-- 💞️ 
+- 🌱 I’m  writing on Automation Script on Dokan .
+- 💞️ Planned Taste Case & Design
 - 📫 
 
 <!---
