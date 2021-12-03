@@ -16,9 +16,6 @@ You can click the Preview link to take a look at your changes.
 - 📫 working on Bdd testing 
 - Using Automation Framework CodeceptJs & Codeception</h3>
 
-![Profile views](https://gpvc.arturio.dev/)
-<p align="left"> <a href="https://twitter.com/shanjidah/" target="blank"><img src="https://img.shields.io/twitter/follow/shanjidah?logo=twitter&style=for-the-badge" alt="shanjidah" /></a> </p>
-
 - 🔭 I’m currently working at [weDevs](https://github.com/weDevsOfficial)
 
 - 👨‍💻 Get to know me [https://shanjidah.me/](https://shanjidah.me/)
