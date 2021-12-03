@@ -22,5 +22,5 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 Reach me at **shanjidahafroz885@gmail.com**
 
-- ⚡ Let's concentrate: **isset($thoughts['idea']) ? 'Implement' : 'Think';**
+
 
