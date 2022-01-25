@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 working on Bdd testing 
 - Using Automation Framework CodeceptJs & Codeception</h3>
 
-- 🔭 I’m currently working at [BrainstormForce](https://github.com/weDevsOfficial)
+- 🔭 I’m currently working at [BrainstormForce](https://brainstormforce.com/)
 
 - 👨‍💻 Get to know me [https://shanjidah.me/](https://shanjidah.me/)
 
