@@ -1,17 +1,20 @@
 - 👋 Hi, I’m @shanjidah afroz
-- 👀 I’m currently working on wordpress plugin on Dokan & Wp-Erp
-- 🌱 I’m  writing on Automation Script on Dokan .
+- 👀 I’m currently working on wordpress plugin on CartFlows, Checkout-Plugins for WooCommerce, Cart Abandonment & Variation Swatches for Woo.
+- Here bascically working all types of WooCommerce Product
+- 🌱 I’m  writing on Automation Script on CartFlows, Checkout Plugin for WooCommerce.
+- Im also written Automation Script on Dokan, Wp-Erp
 - 💞️ Planned Taste Case & Design
 - 📫 working on Bdd testing 
-- Using Automation Framework CodeceptJs & Codeception
+- Using Automation Framework CodeceptJs, Codeception, Playwright & Cypress
 
 <!---
 shanjidah/shanjidah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm @shanjidah afroz </h1>
-<h3 align="center"👀 I’m currently working on wordpress plugin on Dokan & Wp-Erp
-- 🌱 I’m  writing on Automation Script on Dokan .
+<h3 align="center"👀 I’m currently working on wordpress plugin on CartFlows, Checkout-Plugins for WooCommerce, Cart Abandonment & Variation Swatches for Woo.
+- 🌱 I’m  writing on Automation Script on CartFlows, Checkout Plugin for WooCommerce.
+-    Im also written Automation Script on Dokan, Wp-Erp    
 - 💞️ Planned Taste Case & Design
 - 📫 working on Bdd testing 
 - Using Automation Framework CodeceptJs Codeception,Cypress & Playwright</h3>
