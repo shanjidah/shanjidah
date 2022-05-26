@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m  writing on Automation Script on Dokan .
 - 💞️ Planned Taste Case & Design
 - 📫 working on Bdd testing 
-- Using Automation Framework CodeceptJs & Codeception</h3>
+- Using Automation Framework CodeceptJs Codeception,Cypress & Playwright</h3>
 
 - 🔭 I’m currently working at [BrainstormForce](https://brainstormforce.com/)
 
